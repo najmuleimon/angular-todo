@@ -1,0 +1,9 @@
+.complete{
+  text-decoration: line-through;
+}
+
+table,
+table tr td,
+table tr th{
+  text-align: center;
+}
